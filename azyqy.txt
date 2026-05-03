@@ -1,0 +1,821 @@
+a	あ
+i	い
+u	う
+e	え
+o	お
+y	ー
+l	ん
+｀	ゝ
+
+＝	=
+＋	+
+ー	-
+＿	_
+（	(
+）	)
+＊	*
+＆	&
+＾	^
+％	%
+＄	$
+＃	#
+＠	@
+：	:
+＜	<
+＞	>
+／	/
+＼	\
+
+
+	
+あ＼	ぁ
+い＼	ぃ
+う＼	ぅ
+え＼	ぇ
+お＼	ぉ
+ぁ＼	あ
+ぃ＼	い
+ぅ＼	う
+ぇ＼	え
+ぉ＼	お
+や＼	ゃ
+ゆ＼	ゅ
+よ＼	ょ
+ゃ＼	や
+ゅ＼	ゆ
+ょ＼	よ
+わ＼	ゎ
+ゎ＼	わ
+つ＼	っ
+
+く＼	ㇰ
+し＼	ㇱ
+す＼	ㇲ
+と＼	ㇳ
+ぬ＼	ㇴ
+は＼	ㇵ
+ひ＼	ㇶ
+ふ＼	ㇷ
+ぷ＼	ㇷ゚
+へ＼	ㇸ
+ほ＼	ㇹ
+む＼	ㇺ
+ら＼	ㇻ
+り＼	ㇼ
+る＼	ㇽ
+れ＼	ㇾ
+ろ＼	ㇿ
+
+か＼	ヵ
+け＼	ヶ
+
+;＼	ふ
+’＼	じ
+a＼	あ
+b＼	ぶ
+bj＼	び
+c＼	つ
+d＼	じゅ
+dj＼	で
+e＼	え
+f＼	を
+g＼	ぐ
+h＼	は
+hj＼	ひ
+i＼	い
+j＼	ぃ
+jb＼	ゔ
+jc＼	づ
+jm＼	うぁ
+jn＼	ぎ
+jv＼	ぢ
+jx＼	じ
+k＼	く
+l＼	ん
+m＼	む
+mj＼	み
+n＼	ぬ
+nj＼	に
+o＼	お
+p＼	ぷ
+pj＼	ぴ
+q＼	き
+r＼	る
+rj＼	り
+s＼	す
+t＼	しゅ
+tj＼	て
+u＼	う
+v＼	ち
+w＼	ゎ
+x＼	し
+y＼	ー
+z＼	ず
+
+;{composition-separator}	ふ
+a{composition-separator}	あ
+b{composition-separator}	ぶ
+bj{composition-separator}	び
+c{composition-separator}	つ
+d{composition-separator}	ど
+dj{composition-separator}	で
+e{composition-separator}	え
+f{composition-separator}	を
+g{composition-separator}	ぐ
+h{composition-separator}	は
+hj{composition-separator}	ひ
+i{composition-separator}	い
+j{composition-separator}	ぃ
+jn{composition-separator}	ぎ
+jx{composition-separator}	じ
+jv{composition-separator}	ぢ
+jc{composition-separator}	づ
+jb{composition-separator}	ゔ
+k{composition-separator}	く
+l{composition-separator}	ん
+m{composition-separator}	も
+mf{composition-separator}	み
+n{composition-separator}	の
+nj{composition-separator}	に
+o{composition-separator}	お
+p{composition-separator}	ぷ
+pj{composition-separator}	ぴ
+q{composition-separator}	き
+r{composition-separator}	る
+rj{composition-separator}	り
+s{composition-separator}	す
+t{composition-separator}	と
+tj{composition-separator}	て
+u{composition-separator}	う
+v{composition-separator}	ち
+w{composition-separator}	w
+x{composition-separator}	し
+y{composition-separator}	ー
+z{composition-separator}	ず
+
+
+；	;
+;{any character}	ふ{any character}
+;；	ふぉん
+;a	ふぁ
+;e	ふぇ
+;g	ふう
+;l	ふん
+;o	ふぉ
+;q	ふぁい
+;u	ふ
+;y	ふー
+;z	ふぁん
+
+ふji	ふぃ
+ふju	ふゅ
+ふjl	ふぃん
+ふjo	ふょ
+ふjq	ふq
+ふjy	ふぃー
+
+
+’{any character}	じ{any character}
+’；	じょん
+’a	じゃ
+’d	じd
+’e	じぇ
+’g	じゅう
+’i	じい
+’l	じん
+’o	じょ
+’p	じょう
+’u	じゅ
+’w	じぇい
+’y	じー
+’z	じゃん
+
+a{any character}	あ{any character}
+b{any character}	ぶ{any character}
+b；	ぼん
+ba	ば
+bd	べん
+be	べ
+bg	ぶう
+bi	び
+bj	bj
+bl	ぶん
+bo	ぼ
+bp	ぼう
+bq	ばい
+bu	ぶ
+bw	べい
+by	ぶー
+bz	ばん
+
+bj；	びょん
+bja	びゃ
+bjb	ぶjb
+bjc	ぶjc
+bjd	ぶえん
+bje	びぇ
+bjg	びゅう
+bjh	びゅ
+bji	びぃ
+bjj	ぶj
+bjk	ぶg
+bjl	びん
+bjm	ぶjm
+bjn	ぶjn
+bjo	びょ
+bjp	びょう
+bjq	びゃい
+bjr	ぶw
+bjs	ぶz
+bjt	ぶd
+bju	びゅ
+bjv	ぶjv
+bjw	ぶえい
+bjx	ぶjx
+bjy	びゅー
+bjz	びゃん
+
+c{any character}	つ{any character}
+c；	つ;
+ca	つぁ
+ci	つい
+ce	つぇ
+cg	つう
+cl	つん
+co	つぉ
+cu	つ
+
+つji	つぃ
+つjl	つぃん
+つjy	つぃー
+
+d{any character}	じゅ{any character}
+d；	どん
+da	だ
+dd	でん
+de	で
+dg	じゅう
+dj	dj
+dl	じゅん
+do	ど
+dp	どう
+dq	だい
+du	どぅ
+dw	でい
+dz	だん
+
+dj{any character}	で{any character}
+dji	でぃ
+dju	でゅ
+dje	でぇ
+djo	でょ
+djg	でゅー
+dj；	でょん
+djl	でぃん
+djy	でぃー
+djb	じゅjb
+djc	じゅjc
+djm	じゅjm
+djn	じゅjn
+djv	じゅjv
+
+
+e{any character}	え{any character}
+
+f{any character}	っ{any character}
+f；	っ;
+ff	っ
+fa	あ
+fi	い
+fu	う
+fe	え
+fo	お
+fm	うん
+fn	あん
+fj	j
+fl	おん
+fy	ゅ
+f、	を、
+f。	を。
+f？	を？
+f！	を！
+
+g{any character}	ぐ{any character}
+g；	ごん
+ga	が
+ge	げ
+gg	ぐう
+gi	ぐい
+gj	gj
+gl	ぐん
+go	ご
+gp	ごう
+gq	がい
+gu	ぐ
+gz	がん
+
+gj{any character}	ぐ{any character}
+gj；	ぐよん
+gja	ぐや
+gjb	ぐjb
+gjc	ぐjc
+gjd	ぐえん
+gje	ぐぇ
+gjg	ぐゆう
+gjh	ぐゆ
+gji	ぐぃ
+gjj	ぐj
+gjk	ぐg
+gjl	ぐぃん
+gjm	ぐjm
+gjn	ぐjn
+gjo	ぐよ
+gjp	ぐよう
+gjq	ぐq
+gjr	ぐw
+gjs	ぐz
+gjt	ぐd
+gju	ぐゆ
+gjv	ぐjv
+gjw	ぐえい
+gjx	ぐjx
+gjy	ぐゅ
+gjz	ぐやん
+
+
+h{any character}	は{any character}
+h；	;
+ha	は
+hb	p
+hc	c
+hd	へん
+he	へ
+hf	hj
+hg	はう
+hh	ひh
+hi	ひ
+hj	hj
+hk	k
+hl	ほん
+hm	む
+hn	ぬ
+ho	ほ
+hp	ほう
+hq	はい
+hr	る
+hs	s
+ht	t
+hu	ふ
+hv	v
+hw	へい
+hx	x
+hy	ひゅ
+hz	はん
+
+hj{any character}	ひ{any character}
+hj；	ひょん
+hja	ひゃ
+hje	ひぇ
+hjg	ひゅう
+hji	ひぃ
+hjo	ひょ
+hjp	ひょう
+hju	ひゅ
+hjz	ひゃん
+
+i{any character}	い{any character}
+
+j{any character}	ぃ{any character}
+j；	;
+j｀	ゞ
+ja	や
+jb	jb
+jc	jc
+jd	えん
+je	え
+jf	q
+jg	ゆう
+jh	ゆ
+ji	い
+jj	jj
+jk	g
+jl	よん
+jm	jm
+jn	jn
+jo	よ
+jp	よう
+jq	やい
+jr	w
+js	z
+jt	d
+ju	ゆ
+jv	jv
+jw	えい
+jx	jx
+jy	ゅ
+jz	やん
+
+jb{any character}	ゔ{any character}
+jba	ゔぁ
+jbi	ゔぃ
+jbu	ゔ
+jbe	ゔぇ
+jbo	ゔぉ
+jbw	ゔぇい
+jbg	ゔゅー
+jbz	ゔぁん
+jbd	ゔぇん
+jbq	ゔぁい
+jb；	ゔぉん
+jby	ゔゅ
+
+jbj	ゔj
+jbji	ゔぃ
+jbjo	ゔょ
+jbjl	ゔぃん
+jbjy	ゔぃー
+
+jc{any character}	づ{any character}
+jca	づぁ
+jci	づい
+jcu	づ
+jce	づぇ
+jco	づぉ
+jcg	づう
+jcl	づん
+
+jcj	づj
+づji	づぃ
+づjl	づぃん
+づjy	づぃー
+	
+
+jj{any character}	い{any character}
+jj；	い;
+jji	いぃ
+jje	いぇ
+jjw	いぇい
+jjd	いぇん
+
+jn{any character}	ぎ{any character}
+jn；	ぎ;
+jna	ぎゃ
+jni	ぎい
+jnu	ぎゅ
+jne	げ
+jno	ぎょ
+jnw	げい
+jng	ぎゅう
+jnz	ぎゃん
+jnd	げん
+jnp	ぎょう
+jnl	ぎん
+
+jnj	ぎj
+ぎji	ぎぃ
+ぎje	ぎぇ
+ぎjl	ぎぃん
+ぎjy	ぎぃー
+	
+
+jv{any character}	ぢ{any character}
+jv；	ぢ;
+jva	ぢゃ
+jvi	ぢい
+jvu	ぢゅ
+jve	ぢぇ
+jvo	ぢょ
+jvw	ぢぇい
+jvg	ぢゅう
+jvz	ぢゃん
+jvp	ぢょう
+jvl	ぢん
+
+jvj	ぢj
+ぢji	ぢぃ
+ぢje	ぢぇ
+ぢjl	ぢぃん
+ぢjy	ぢぃー
+	
+
+
+jx{any character}	じ{any character}
+jxa	じゃ
+jxi	じい
+jxu	じゅ
+jxe	じぇ
+jxo	じょ
+jxw	じぇい
+jxg	じゅう
+jxz	じゃん
+jxp	じょう
+jx；	じょん
+jxl	じん
+
+jxj	じj
+じji	じぃ
+じj；	じ;
+じjl	じぃん
+じjy	じぃー
+	
+
+
+k{any character}	く{any character}
+ka	か
+ku	く
+ke	け
+ko	こ
+kg	くう
+kz	かん
+kp	こう
+kq	かい
+k；	こん
+kl	くん
+
+kj	くj
+くji	くぃ
+くje	くぇ
+くjj	くj
+くjl	くぃん
+
+
+l{any character}	ん{any character}
+
+m{any character}	む{any character}
+ma	ま
+md	めん
+me	め
+mf	mf
+mi	み
+mj	むf
+mo	も
+mp	もう
+mq	まい
+mu	む
+mw	めい
+mz	まん
+ml	もん
+
+mf{any character}	み{any character}
+mfa	みゃ
+mfi	みぃ
+mfu	みゅ
+mfe	みぇ
+mfo	みょ
+mfg	みゅう
+mfz	みゃん
+mfp	みょう
+mfq	みゃい
+mfl	みん
+
+
+n{any character}	の{any character}
+n；	のん
+na	な
+nd	ねん
+ne	ね
+ni	に
+nj	nj
+no	の
+np	のう
+nq	ない
+nm	ぬm
+nu	ぬ
+nw	ねい
+nz	なん
+nl	ぬん
+
+nj{any character}	に{any character}
+nj；	にょん
+nja	にゃ
+nji	にぃ
+nju	にゅ
+nje	にぇ
+njo	にょ
+njg	にゅう
+njz	にゃん
+njp	にょう
+njq	にゃい
+njl	にん
+
+o{any character}	お{any character}
+
+p{any character}	ぷ{any character}
+p；	ぽん
+pa	ぱ
+pd	ぺん
+pe	ぺ
+pg	ぷう
+pi	ぴ
+pj	pj
+po	ぽ
+pp	ぽう
+pq	ぱい
+pu	ぷ
+pw	ぺい
+pz	ぱん
+pl	ぷん
+
+pj{any character}	ぴ{any character}
+pj；	ぴょん
+pja	ぴゃ
+pji	ぴぃ
+pju	ぴゅ
+pje	ぴぇ
+pjo	ぴょ
+pjg	ぴゅう
+pjz	ぴゃん
+pjp	ぴょう
+pjq	ぴゃい
+pjl	ぴん
+
+q{any character}	き{any character}
+qa	きゃ
+qi	きい
+qu	きゅ
+qe	け
+qo	きょ
+qw	けい
+qg	きゅう
+qz	きゃん
+qd	けん
+qp	きょう
+q；	きょん
+ql	きん
+
+qj	きj
+きji	きぃ
+きjl	きぃん
+きjy	きぃー
+
+r{any character}	る{any character}
+ra	ら
+ri	り
+ru	る
+re	れ
+ro	ろ
+rw	れい
+rg	るい
+rz	らん
+rd	れん
+rp	ろう
+rq	らい
+r；	ろん
+rj	rj
+rl	るん
+
+rj{any character}	り{any character}
+rj；	りょん
+rja	りゃ
+rji	りぃ
+rju	りゅ
+rje	りぇ
+rjo	りょ
+rjw	りぇい
+rjg	りゅう
+rjz	りゃん
+rjp	りょう
+rjl	りん
+
+s{any character}	す{any character}
+sa	さ
+si	すい
+su	す
+se	せ
+so	そ
+sw	せい
+sg	すう
+sz	さん
+sd	せん
+sp	そう
+sq	さい
+s；	そん
+sl	すん
+
+sj	すj
+すji	すぃ
+すjl	すぃん
+すjy	すぃー
+
+t{any character}	しゅ{any character}
+t；	とん
+ta	た
+td	てん
+te	て
+ti	とい
+tj	tj
+tl	しゅん
+tu	とぅ
+to	と
+tp	とう
+tq	たい
+tw	てい
+tz	たん
+
+
+tj{any character}	て{any character}
+tjr	とw
+tja	てゃ
+tji	てぃ
+tju	てゅ
+tje	てぇ
+tjo	てょ
+tjw	てい
+tjg	てゅー
+tjz	てゃん
+tj；	てょん
+tjl	てぃん
+tjy	てぃー
+tjb	しゅjb
+tjc	しゅjc
+tjm	しゅjm
+tjn	しゅjn
+tjv	しゅjv
+tjx	しゅjx
+
+
+u{any character}	う{any character}
+
+v{any character}	ち{any character}
+v；	ちょん
+va	ちゃ
+vi	ちい
+vu	ちゅ
+ve	ちぇ
+vo	ちょ
+vg	ちゅう
+vz	ちゃん
+vp	ちょう
+vl	ちん
+
+vj	ちj
+ちji	ちぃ
+ちjl	ちぃん
+ちjy	ちぃー
+
+
+w；	うぉん
+wa	わ
+wb	をん
+wc	ゑつ
+wd	うぇん
+we	うぇ
+wf	ゑん
+wg	をぅー
+wh	うぅ
+wi	うぃ
+wj	をぅ
+wk	ゐく
+wl	を
+wm	わん
+wn	ゐん
+wo	うぉ
+wp	おう
+wq	わい
+wr	うぇい
+ws	ゑ
+wt	ゑい
+wu	う
+wv	ゑち
+ww	ww
+wx	ゐ
+wy	うゅ
+wz	うぁ
+
+x{any character}	し{any character}
+xa	しゃ
+xi	しい
+xu	しゅ
+xe	しぇ
+xo	しょ
+xg	しゅう
+xp	しょう
+x；	しょん
+xl	しん
+
+xj	しj
+しji	しぃ
+しjl	しぃん
+しjy	しぃー
+
+y{any character}	ー{any character}
+
+z{any character}	ず{any character}
+za	ざ
+zi	ずい
+zu	ず
+ze	ぜ
+zo	ぞ
+zw	ぜい
+zg	ずう
+zz	ざん
+zd	ぜん
+zp	ぞう
+zq	ざい
+z；	ぞん
+zl	ずん
+
+zj	ずj
+ずji	ずぃ
+ずjl	ずぃん
+
