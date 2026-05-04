@@ -393,7 +393,7 @@ jb	jb
 jc	jc
 jd	えん
 je	え
-jf	q
+jf	d
 jg	ゆう
 jh	ゆ
 ji	い
@@ -407,7 +407,7 @@ jp	よう
 jq	やい
 jr	w
 js	z
-jt	d
+jt	q
 ju	ゆ
 jv	jv
 jw	えい
