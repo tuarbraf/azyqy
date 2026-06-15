@@ -542,6 +542,7 @@ kj	くj
 l{any character}	ん{any character}
 
 m{any character}	む{any character}
+m；	む;
 ma	ま
 md	めん
 me	め
