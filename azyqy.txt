@@ -178,7 +178,7 @@ z{composition-separator}	ず
 ;z	ふぁん
 
 ふji	ふぃ
-ふju	ふゅ
+ふju	ふゅ
 ふjl	ふぃん
 ふjo	ふょ
 ふjq	ふq
