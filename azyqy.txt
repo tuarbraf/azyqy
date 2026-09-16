@@ -170,6 +170,7 @@ z{composition-separator}	ず
 ;a	ふぁ
 ;e	ふぇ
 ;g	ふう
+;j	;j
 ;l	ふん
 ;o	ふぉ
 ;q	ふぁい
@@ -177,13 +178,34 @@ z{composition-separator}	ず
 ;y	ふー
 ;z	ふぁん
 
-ふji	ふぃ
-ふju	ふゅ
-ふjl	ふぃん
-ふjo	ふょ
-ふjq	ふq
-ふjy	ふぃー
-
+;j；	ふ;
+;j’	ふぃ’
+;ja	ふや
+;jb	ふjb
+;jc	ふjc
+;jd	ふえん
+;je	ふえ
+;jf	ふd
+;jg	ふゆう
+;jh	ふゆ
+;ji	ふぃ
+;jj	ふj
+;jk	ふg
+;jl	ふぃん
+;jm	ふjm
+;jn	ふjn
+;jo	ふょ
+;jp	ふよう
+;jq	ふやい
+;jr	ふw
+;js	ふz
+;jt	ふq
+;ju	ふゅ
+;jv	ふjv
+;jw	ふえい
+;jx	ふjx
+;jy	ふぃー
+;jz	ふやん
 
 ’{any character}	じ{any character}
 ’；	じょん
