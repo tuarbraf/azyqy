@@ -246,6 +246,7 @@ bjb	ぶjb
 bjc	ぶjc
 bjd	ぶえん
 bje	びぇ
+bjf	ぶd
 bjg	びゅう
 bjh	びゅ
 bji	びぃ
@@ -259,7 +260,7 @@ bjp	びょう
 bjq	びゃい
 bjr	ぶw
 bjs	ぶz
-bjt	ぶd
+bjt	ぶq
 bju	びゅ
 bjv	ぶjv
 bjw	ぶえい
@@ -276,6 +277,7 @@ cg	つう
 cl	つん
 co	つぉ
 cu	つ
+cy	つー
 
 つji	つぃ
 つjl	つぃん
@@ -294,6 +296,7 @@ dp	どう
 dq	だい
 du	どぅ
 dw	でい
+dy	じゅー
 dz	だん
 
 dj{any character}	で{any character}
@@ -344,6 +347,7 @@ go	ご
 gp	ごう
 gq	がい
 gu	ぐ
+gy	ぐー
 gz	がん
 
 gj{any character}	ぐ{any character}
@@ -413,6 +417,7 @@ hji	ひぃ
 hjo	ひょ
 hjp	ひょう
 hju	ひゅ
+hjy	ひー
 hjz	ひゃん
 
 i{any character}	い{any character}
@@ -475,6 +480,7 @@ jce	づぇ
 jco	づぉ
 jcg	づう
 jcl	づん
+jcy	づー
 
 jcj	づj
 づji	づぃ
@@ -488,6 +494,7 @@ jji	いぃ
 jje	いぇ
 jjw	いぇい
 jjd	いぇん
+jjy	いー
 
 jn{any character}	ぎ{any character}
 jn；	ぎ;
@@ -502,6 +509,7 @@ jnz	ぎゃん
 jnd	げん
 jnp	ぎょう
 jnl	ぎん
+jny	ぎー
 
 jnj	ぎj
 ぎji	ぎぃ
@@ -522,6 +530,7 @@ jvg	ぢゅう
 jvz	ぢゃん
 jvp	ぢょう
 jvl	ぢん
+jvy	ぢー
 
 jvj	ぢj
 ぢji	ぢぃ
@@ -543,6 +552,7 @@ jxz	じゃん
 jxp	じょう
 jx；	じょん
 jxl	じん
+jxy	じー
 
 jxj	じj
 じji	じぃ
@@ -563,6 +573,7 @@ kp	こう
 kq	かい
 k；	こん
 kl	くん
+ky	くー
 
 kj	くj
 くji	くぃ
@@ -588,6 +599,7 @@ mu	む
 mw	めい
 mz	まん
 ml	もん
+my	むー
 
 mf{any character}	み{any character}
 mfa	みゃ
@@ -600,6 +612,7 @@ mfz	みゃん
 mfp	みょう
 mfq	みゃい
 mfl	みん
+mfy	みー
 
 
 n{any character}	の{any character}
@@ -617,6 +630,7 @@ nu	ぬ
 nw	ねい
 nz	なん
 nl	ぬん
+ny	ぬー
 
 nj{any character}	に{any character}
 nj；	にょん
@@ -630,6 +644,7 @@ njz	にゃん
 njp	にょう
 njq	にゃい
 njl	にん
+njy	にー
 
 o{any character}	お{any character}
 
@@ -648,6 +663,7 @@ pu	ぷ
 pw	ぺい
 pz	ぱん
 pl	ぷん
+py	ぷー
 
 pj{any character}	ぴ{any character}
 pj；	ぴょん
@@ -661,6 +677,7 @@ pjz	ぴゃん
 pjp	ぴょう
 pjq	ぴゃい
 pjl	ぴん
+pjy	ぴー
 
 q{any character}	き{any character}
 qa	きゃ
@@ -675,6 +692,7 @@ qd	けん
 qp	きょう
 q；	きょん
 ql	きん
+qy	きー
 
 qj	きj
 きji	きぃ
@@ -696,6 +714,7 @@ rq	らい
 r；	ろん
 rj	rj
 rl	るん
+ry	るー
 
 rj{any character}	り{any character}
 rj；	りょん
@@ -709,6 +728,7 @@ rjg	りゅう
 rjz	りゃん
 rjp	りょう
 rjl	りん
+rjy	りー
 
 s{any character}	す{any character}
 sa	さ
@@ -724,6 +744,7 @@ sp	そう
 sq	さい
 s；	そん
 sl	すん
+sy	すー
 
 sj	すj
 すji	すぃ
@@ -744,6 +765,7 @@ tp	とう
 tq	たい
 tw	てい
 tz	たん
+ty	しゅー
 
 
 tj{any character}	て{any character}
@@ -780,6 +802,7 @@ vg	ちゅう
 vz	ちゃん
 vp	ちょう
 vl	ちん
+vy	ちー
 
 vj	ちj
 ちji	ちぃ
@@ -825,6 +848,7 @@ xg	しゅう
 xp	しょう
 x；	しょん
 xl	しん
+xy	しー
 
 xj	しj
 しji	しぃ
@@ -847,7 +871,9 @@ zp	ぞう
 zq	ざい
 z；	ぞん
 zl	ずん
+zy	ずー
 
 zj	ずj
 ずji	ずぃ
 ずjl	ずぃん
+ずjy	ずぃー
